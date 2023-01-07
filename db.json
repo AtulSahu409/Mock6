@@ -1,0 +1,18 @@
+{
+  "UserDetails": [
+    {
+      "id": 1,
+      "Username": "Atul",
+      "Eamil": "atul@gmail.com",
+      "Password": "123456",
+      "ConformPassword": "123456"
+    },
+    {
+      "Email": "atulsahu@gmailc.ocmm",
+      "Username": "asjapasfafa",
+      "password": "6544",
+      "Confrimpassword": "6564",
+      "id": 2
+    }
+  ]
+}
